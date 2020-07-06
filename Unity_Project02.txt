@@ -1,0 +1,7 @@
+주소 : 
+
+https://github.com/tkd14gus/Unity_Project02.git
+
+내용 : 
+
+ 학원 교수님의 지도에 따라 FPS에 필요한 기법들을 사용해 간략하게 적과 플레이어를 만드는 프로젝트를 진행하였다.

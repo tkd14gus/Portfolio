@@ -1,0 +1,7 @@
+주소 :
+
+https://github.com/tkd14gus/Unity_Absolute_Course.git
+
+내용 : 
+
+유니티 절대강좌(19년도) 를 따라하며 유니티의 사용 방법을 익혔다.
