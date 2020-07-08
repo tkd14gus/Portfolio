@@ -34,13 +34,13 @@ Unity_Portfolio -
 
 Unity_Project01 - 
 
-	    주소 : 
+     주소 : 
 
-	    https://github.com/tkd14gus/Unity_Project01.git
+     https://github.com/tkd14gus/Unity_Project01.git
 
-    	내용 :
+     내용 :
 
-    	슈팅 게임을 학원 교수님의 지도에 따라 제작 후 APK파일로 만들었다.
+     슈팅 게임을 학원 교수님의 지도에 따라 제작 후 APK파일로 만들었다.
 
 Unity_Project02 - 
 
