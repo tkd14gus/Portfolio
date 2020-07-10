@@ -72,3 +72,18 @@ Unity_Tutorial -
      내용:
 
      유튜브 '케이디'의 '유니티 강화[입문. 초보]' 재생목록 26가지를 따라하였다.
+     
+     
+슈팅, WinAPI, Unity3D 동영상 링크 -
+
+     주소 : 
+
+     슈팅 : https://youtu.be/iHQpsxEDkXw
+     
+     WinAPI : https://youtu.be/bKWbsTWl1F4
+     
+     Unity 3D : https://youtu.be/uESBxlGB6ks
+
+     내용:
+
+     포토폴리오를 위해 만든 작품 동영상 링크
