@@ -74,6 +74,17 @@ Unity_Tutorial -
      유튜브 '케이디'의 '유니티 강화[입문. 초보]' 재생목록 26가지를 따라하였다.
      
      
+Photon -
+
+     주소 : 
+
+     https://github.com/tkd14gus/Photon.git
+
+     내용:
+
+     학원 교수님의 지도에 따라 Photon을 이용하여 서버를 만들고 그곳에 여러명의 플레이어가 들어올 수 있는 환경을 구현하였다.
+     
+     
 슈팅, WinAPI, Unity3D 동영상 링크 -
 
      주소 : 
