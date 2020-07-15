@@ -1,7 +1,0 @@
-주소 : 
-
-https://github.com/tkd14gus/Unity_Tutorial.git
-
-내용:
-
- 유튜브 '케이디'의 '유니티 강화[입문. 초보]' 재생목록 26가지를 따라하였다.

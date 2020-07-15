@@ -1,7 +1,0 @@
-주소 :
-
-https://github.com/tkd14gus/Unity_Portfolio.git
-
-내용 :
-
- 학원에서 진행하는 유니티 최종 포토폴리오를 github를 이용하여 기록하였다.

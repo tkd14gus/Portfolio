@@ -1,7 +1,0 @@
-주소 : 
-
-https://github.com/tkd14gus/Unity_Skill.git
-
-내용 :
-
- 유튜브 '케이디' 채널의 '유니티 스킬과 기법' 재생목록을 따라하며 스킬과 기법을 익혔다.
